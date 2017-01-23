@@ -2,10 +2,12 @@
 	{
 		"date": "2017-01-22",
 		"description": "Trump presidential inaguration was most-watched ever",
-		"quote" : "This was the largest audience to ever witness an inauguration -- period -- both in person and around the globe",
 		"claim": [
 			{
 				"source": "politico",
+				"quotes": [
+					"This was the largest audience to ever witness an inauguration -- period -- both in person and around the globe"
+				],
 				"url": "http://www.politico.com/story/2017/01/transcript-press-secretary-sean-spicer-media-233979"
 			}
 		],
@@ -21,6 +23,41 @@
 			{
 				"source": "Forbes",
 				"url": "http://www.forbes.com/sites/maddieberg/2017/01/21/sorry-sean-spicer-donald-trumps-inauguration-garners-7-million-fewer-viewers-than-obamas/#643f20c94c8c"
+			}
+		]
+	},
+	{
+		"date": "2016-09-26",
+		"description": "Trump will release his tax returns once federal audit is complete",
+		"claim": [
+			{
+				"source": "Washington Post",
+				"quotes": [
+					"I don't mind releasing -- I'm under a routine audit. And it'll be released. And -- as soon as the audit's finished, it will be released.",
+					"I will release my tax returns. And that's against -- my lawyers, they say, \"Don't do it.\" I will tell you this. No -- in fact, watching shows, they're reading the papers. Almost every lawyer says, you don't release your returns until the audit's complete. When the audit's complete, I'll do it."
+				],
+				"url": "https://www.washingtonpost.com/news/the-fix/wp/2016/09/26/the-first-trump-clinton-presidential-debate-transcript-annotated/?utm_term=.4200da3bf841"
+			},
+			{
+				"source": "New York Times",
+				"quotes":[
+					"I pay hundreds of millions of dollars in taxes. But — but as soon as my routine audit is finished, I’ll release my returns. I’ll be very proud to. They’re actually quite great."
+				],
+				"url": "https://www.nytimes.com/2016/10/10/us/politics/transcript-second-debate.html?_r=0"
+			}
+		],
+		"facts": [
+			{
+				"source": "CNN",
+				"url": "http://www.cnn.com/2017/01/22/politics/kellyanne-conway-trump-tax-returns/"
+			},
+			{
+				"source": "NBC",
+				"url": "http://www.nbcnews.com/politics/politics-news/donald-trump-will-not-release-tax-returns-white-house-adviser-n710511"
+			},
+			{
+				"source": "New York Times",
+				"url": "https://www.nytimes.com/2017/01/22/us/politics/donald-trump-tax-returns.html"
 			}
 		]
 	}
