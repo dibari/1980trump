@@ -1,25 +1,26 @@
 [
 	{
-		date : '2017-01-22',
-		description : 'Trump presidential inaguration was most-watched ever',
-		claim : [
+		"date": "2017-01-22",
+		"description": "Trump presidential inaguration was most-watched ever",
+		"quote" : "This was the largest audience to ever witness an inauguration -- period -- both in person and around the globe",
+		"claim": [
 			{
-				source : 'twitter',
-				url : 'https://twitter.com/realDonaldTrump/status/823151124815507460'
+				"source": "politico",
+				"url": "http://www.politico.com/story/2017/01/transcript-press-secretary-sean-spicer-media-233979"
 			}
 		],
-		facts : [
+		"facts": [
 			{
-				source : 'Wall Street Journal',
-				url : 'http://www.wsj.com/articles/donald-trumps-inauguration-brings-in-over-30-million-viewers-1485039516'
+				"source": "Wall Street Journal",
+				"url": "http://www.wsj.com/articles/donald-trumps-inauguration-brings-in-over-30-million-viewers-1485039516"
 			},
 			{
-				source : 'Atlantic',
-				url : 'https://www.theatlantic.com/politics/archive/2017/01/inauguration-crowd-size/514058'
+				"source": "Atlantic",
+				"url": "https://www.theatlantic.com/politics/archive/2017/01/inauguration-crowd-size/514058"
 			},
 			{
-				source : 'Forbes',
-				url : 'http://www.forbes.com/sites/maddieberg/2017/01/21/sorry-sean-spicer-donald-trumps-inauguration-garners-7-million-fewer-viewers-than-obamas/#643f20c94c8c'
+				"source": "Forbes",
+				"url": "http://www.forbes.com/sites/maddieberg/2017/01/21/sorry-sean-spicer-donald-trumps-inauguration-garners-7-million-fewer-viewers-than-obamas/#643f20c94c8c"
 			}
 		]
 	}
