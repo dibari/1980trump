@@ -1,5 +1,32 @@
 [
 	{
+		"date": "2017-01-11",
+		"drescription": "Trump will relinquish control of all business entities prior to inaguration.  It appears Trump is taking the steps to do as he promised, but did not relinquish control prior to becoming President, as he promised",
+		"claim": [
+			{
+				"source": "New York Ttimes",
+				"quotes": [
+					"First, President-elect Trump’s investments and business assets commonly known as the — as the Trump Organization, comprising hundreds of entities which, again, if you all go and take a look at his financial disclosure statement, the pages and pages and pages of entities have all been or will be conveyed to a trust prior to January 20th."
+				],
+				"url": "https://www.nytimes.com/2017/01/11/us/politics/trump-press-conference-transcript.html?_r=0"
+			}
+		],
+		"facts": [
+			{
+				"source" : "Miami Herald",
+				"url": "http://www.miamiherald.com/news/politics-government/article128262999.html"
+			},
+			{
+				"source": "NPR",
+				"url": "http://www.npr.org/sections/thetwo-way/2017/01/22/511103785/trump-is-yet-to-sever-ties-with-his-business-despite-promises-to-do-so-report-sa"
+			},
+			{
+				"source": "ProPublica",
+				"url": "https://www.propublica.org/article/trump-promised-to-resign-from-his-companies-but-no-record-hes-done-so"
+			}
+		]
+	},
+	{
 		"date": "2017-01-22",
 		"description": "Trump presidential inaguration was most-watched ever",
 		"claim": [
